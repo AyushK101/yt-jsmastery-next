@@ -1,0 +1,3 @@
+- change package.json & after pnpm run dev -> .next
+- pnpm add next-auth@beta
+- npx auth secret
